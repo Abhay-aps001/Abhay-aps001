@@ -33,7 +33,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhay-aps001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-aps001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
- <img src="https://komarev.com/ghpvc/?username=Abhay-aps001&color=green" width="150" alt="languages graph"  />
+ 
+<img src="https://komarev.com/ghpvc/?username=Abhay-aps001&color=green" width="150" alt="languages graph" />
 
  <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhay-aps001&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
