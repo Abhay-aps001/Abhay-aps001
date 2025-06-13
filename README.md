@@ -1,9 +1,9 @@
 <div align="center"> <h1>Hi👋,I'm Abhay Pratap Singh</h1>
 <div align="left">
-⭐I am a software engineering student in Bangalore currently in my 2nd semester.<br>
-⭐I have won Ideathon organised by <b>INAE Indian National Academy of Education</b>.<br>
-⭐I have learnt Java , C , Java Script , HTML , CSS , Bootstsrap and also knowledge about  IP address and subnetting.<br>
-⭐I am Learning Front and Backend development.
+⭐Software engineering student in Bangalore currently in my 2nd semester.<br>
+⭐Won Ideathon organised by <b>INAE Indian National Academy of Education</b>.<br>
+⭐Learnt Java , C , Java Script , HTML , CSS , Bootstsrap and also knowledge about  IP address and subnetting.<br>
+⭐Learning Front and Backend development.
 </div>
 <hr>
 
