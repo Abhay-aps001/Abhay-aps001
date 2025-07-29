@@ -1,5 +1,6 @@
 <div align="center"> <h1>Hi👋,I'm Abhay Pratap Singh</h1>
 <div align="left">
+<h2>👨‍💻GSSOC'25 Contributor</h2>
 ⭐Software engineering student in Bangalore currently in my 2nd semester.<br>
 ⭐Won Ideathon organised by <b>INAE Indian National Academy of Education</b>.<br>
 ⭐Learnt Java , C , Java Script , HTML , CSS , Bootstsrap and also knowledge about  IP address and subnetting.<br>
