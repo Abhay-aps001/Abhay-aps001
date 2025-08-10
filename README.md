@@ -2,7 +2,7 @@
 <div align="left">
 <h2>👨‍💻GSSOC'25 Contributor</h2>
 ⭐Software engineering student in Bangalore.<br>
-⭐Won Ideathon Bangalore organised by <b>INAE Indian National Academy of Education</b>.<br>
+⭐Won <b>Ideathon Bangalore</b> organised by <b>INAE Indian National Academy of Education</b>.<br>
 ⭐Tech Stack Java , C , Java Script , HTML , CSS , Bootstsrap and also knowledge about  IP address and subnetting.<br>
 </div>
 <hr>
@@ -19,10 +19,10 @@
    <a href="https://www.instagram.com/_pratap_abhayy/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>  
-<a href="mailto:workatabhay001@gmail.com">
-    <img src="https://github.com/Fyxod/fyxod/assets/140262636/cb0f74c5-b3a2-44c2-836c-be63d0f56025" width="102" />
-  
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=workatabhay001@gmail.com">
+  <img src="https://github.com/Fyxod/fyxod/assets/140262636/cb0f74c5-b3a2-44c2-836c-be63d0f56025" width="102" />
+</a>
+
   </div>
 
 
@@ -42,8 +42,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abhay-aps001&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 <br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhay-aps001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhay-aps001&icon=0&color=0)](https://visitcount.itsvg.in)
