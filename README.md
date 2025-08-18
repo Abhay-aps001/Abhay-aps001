@@ -3,7 +3,7 @@
 <h2>👨‍💻GSSOC'25 Contributor</h2>
 ⭐Software engineering student in Bangalore.<br>
 ⭐Won <b>Ideathon Bangalore</b> organised by <b>INAE Indian National Academy of Education</b>.<br>
-⭐Tech Stack Java , C , Java Script , HTML , CSS , Bootstsrap and also knowledge about  IP address and subnetting.<br>
+⭐Tech Stack Java , C , Java Script , HTML , CSS , Bootstsrap , React , SpringBoot ,IP address and subnetting , RAG System.<br>
 </div>
 <hr>
 
