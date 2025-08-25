@@ -1,9 +1,14 @@
-<div align="center"> <h1>Hi👋,I'm Abhay Pratap Singh</h1>
+<div align="center"> <h1>Namaste 🙏,I'm Abhay Pratap Singh</h1>
 <div align="left">
 <h2>👨‍💻GSSOC'25 Contributor</h2>
+  
 ⭐Software engineering student in Bangalore.<br>
 ⭐Won <b>Ideathon Bangalore</b> organised by <b>INAE Indian National Academy of Education</b>.<br>
 ⭐Tech Stack Java , C , Java Script , HTML , CSS , Bootstsrap , React , SpringBoot ,IP address and subnetting , RAG System.<br>
+⭐Postman API fundamentals Student Expert.<br>
+<a href="https://badgr.com/public/assertions/2jJ9h6kURT23z3GaSU6tVw?identity__email=workatabhay001%40gmail.com">
+  <img src="https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w/image" align="center" width="100" height="100"/>
+</a>
 </div>
 <hr>
 
