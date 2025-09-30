@@ -1,7 +1,6 @@
 <div align="center"> <h1>Namaste 🙏,I'm Abhay Pratap Singh</h1>
 <div align="left">
-<h2>👨‍💻GSSOC'25 Contributor</h2>
-  
+<h2>⭐GSSOC'25   ⭐HACKTOBERFEST'25 </h2> 
 ⭐Software engineering student in Bangalore.<br>
 ⭐Won <b>Ideathon Bangalore</b> organised by <b>INAE Indian National Academy of Education</b>.<br>
 ⭐Tech Stack Java , C , Java Script , HTML , CSS , Bootstsrap , React , SpringBoot ,IP address and subnetting , RAG System.<br>
@@ -13,6 +12,10 @@
 <hr>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" align="center" width= "100%" height="300"/>
+<h1>HOLOPIN</h1>
+<a href="https://holopin.io/@abhayaps001">
+  <img src="https://holopin.me/abhayaps001" alt="Holopin badges">
+</a>
 <h1>🤝Let's Connect</h1>
 <div align="center">
 
