@@ -1,5 +1,6 @@
 <div align="center"> <h1>Namaste 🙏,I'm Abhay Pratap Singh</h1>
 <div align="left">
+  <h2>📍MLSA Technical Team Member , CIT - Bangalore</h2> 
 <h2>⭐GSSOC'25</h2> 
 ⭐Software engineering student in Bangalore.<br>
 ⭐Won <b>Ideathon Bangalore</b> organised by <b>INAE Indian National Academy of Education</b>.<br>
